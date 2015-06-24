@@ -1,9 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\add_track_script.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Slot.cs">
     <Files>
-      <File FileName="Assets\add_track_script.cs" Line="26" Column="4" />
-      <File FileName="Assets\track_script.cs" Line="8" Column="2" />
+      <File FileName="Assets\add_track_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\track_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\DragHandeler.cs" Line="22" Column="37" />
+      <File FileName="Assets\Slot.cs" Line="17" Column="3" />
+      <File FileName="Assets\Inventory.cs" Line="24" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
